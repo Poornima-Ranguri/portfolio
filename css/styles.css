@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+.poori{
+    border-radius: 10px;
+}
+
 html {
     width: 100%;
     height: 100%;
@@ -494,7 +498,7 @@ a.active {
 /* ======= INTRODUCTION ======= */
 
 #intro {
-    background: url(../img/mountain-dusk.jpg);
+    background: url(../img/mpl.jpeg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
